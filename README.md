@@ -17,15 +17,6 @@ Access the initial repository: [Starter Code Repository](https://github.com/code
 Learn how it was created: [Tutorial on YouTube](https://youtu.be/cT160dOzpGY)  
 [![YouTube Video Views](https://img.shields.io/youtube/views/cT160dOzpGY?style=social)](https://youtu.be/cT160dOzpGY)
 
-### Screenshots
-
-![HOME](https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone/blob/main/website-images/Hero-section-desktop.png)
-![Quote](https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone/blob/main/website-images/Quote.png)
-![Color](https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone/blob/main/website-images/Color-section.png)
-![Pricing](https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone/blob/main/website-images/Pricing%20Section.png)
-![HOME-Mobile](https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone/blob/main/website-images/Hero-section-mobile.png)
-![Color-Mobile](https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone/blob/main/website-images/Color-section-mobile.png)
-![Pricing-Mobile](https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone/blob/main/website-images/Pricing%20Section-mobile.png)
 
 ### Project Credits
 
